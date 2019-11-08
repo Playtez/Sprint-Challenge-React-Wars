@@ -1,0 +1,6 @@
+.users {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+    padding: 2%;
+}
